@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":2,"characterName":"mainCharacter","classId":1,"equips":[1,2],"faceIndex":0,"faceName":"face_nc","traits":[{"code":51,"dataId":2,"value":1},{"code":52,"dataId":1,"value":1},{"code":51,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"奶茶","nickname":"","note":"","profile":"玩游戏结果穿越到丧尸末世的倒霉蛋，正在努力以少女\n的姿态与丧尸战斗"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"JT","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"疯子","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"队长","nickname":"","note":"","profile":""}
+]

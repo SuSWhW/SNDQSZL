@@ -1,0 +1,20 @@
+﻿Text that appears outside of the <quest></quest> tags will not display anywhere and can be used for notes if required.
+
+// <quest id:Name of Quest|difficulty|catId>
+// OBJECTIVES separated by commas (leave this blank to not use objectives for a quest)
+// RESOLUTIONS separated by commas use | for line breaks (leave this blank if not using resolutions for a quest)
+// quest description
+// quest description
+// quest description
+// </quest>
+
+<quest 1:取水任务|1|0>
+找到 \c[2]一杯水
+
+帮助口渴的村民找到一杯水！
+</quest>
+
+<quest 2:公主的请求|2|1>
+\c[2]戒指,\c[2]宝石
+帮助公主找到戒指和宝石！
+</quest>
